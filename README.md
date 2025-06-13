@@ -17,7 +17,6 @@ This repository showcases a comprehensive data analysis and visualization projec
 
 ## 🗂️ Repository Structure
 
-.
 ├── data/
 │   *.csv # Raw COVID‑19 case and vaccination data sources
 ├── sql/
