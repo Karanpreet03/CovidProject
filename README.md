@@ -19,9 +19,8 @@ This repository showcases a comprehensive data analysis and visualization projec
 
 .
 ├── data/
-│ └── *.csv # Raw COVID‑19 case and vaccination data sources
+│   *.csv # Raw COVID‑19 case and vaccination data sources
 ├── sql/
-│ ├── covid_sql_queries.sql # Core data clean-up & analysis queries
 │ └── tableau_sql_exports.sql # Prepped datasets for Tableau extraction
 └── README.md # 📘 You are here
 
